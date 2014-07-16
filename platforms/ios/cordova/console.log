@@ -1,0 +1,15 @@
+2014-06-30 17:24:28.031 Ionic Mobile[16081:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-30 17:24:28.049 Ionic Mobile[16081:70b] Unlimited access to network resources
+2014-06-30 17:24:28.168 Ionic Mobile[16081:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-30 17:24:28.168 Ionic Mobile[16081:70b] [CDVTimer][statusbar] 0.379026ms
+2014-06-30 17:24:28.168 Ionic Mobile[16081:70b] [CDVTimer][TotalPluginStartup] 0.678003ms
+2014-06-30 17:24:28.281 Ionic Mobile[16081:70b] Resetting plugins due to page load.
+2014-06-30 17:24:28.472 Ionic Mobile[16081:70b] Finished load of: file:///Users/sguimont/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/10EE6312-14B8-4521-8AEE-E40E70675ECE/Ionic%20Mobile.app/www/index.html#/app/playlists
+2014-06-30 17:27:30.819 Ionic Mobile[16081:70b] Received memory warning.
+2014-06-30 17:29:13.708 Ionic Mobile[16857:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-30 17:29:13.713 Ionic Mobile[16857:70b] Unlimited access to network resources
+2014-06-30 17:29:13.726 Ionic Mobile[16857:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-30 17:29:13.726 Ionic Mobile[16857:70b] [CDVTimer][statusbar] 0.319004ms
+2014-06-30 17:29:13.726 Ionic Mobile[16857:70b] [CDVTimer][TotalPluginStartup] 0.606000ms
+2014-06-30 17:29:13.777 Ionic Mobile[16857:70b] Resetting plugins due to page load.
+2014-06-30 17:29:13.871 Ionic Mobile[16857:70b] Finished load of: file:///Users/sguimont/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/10EE6312-14B8-4521-8AEE-E40E70675ECE/Ionic%20Mobile.app/www/index.html#/app/playlists
