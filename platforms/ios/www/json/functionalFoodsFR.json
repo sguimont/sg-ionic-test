@@ -1,0 +1,105 @@
+[
+    {
+        "Brand_Name": "Activia ❄",
+        "Probiotic_Strain": "Bifidobacterium (animalis) lactis DN-173 010",
+        "Dosage_Form": "1mds bacteria/serving",
+        "Number_of_doses_day": "1-3 portions",
+        "ID": "",
+        "HP_CHILDREN": "",
+        "AAD_CHILDREN": "",
+        "CID": "",
+        "AAD_ADULT": "",
+        "IBS": "I97,98",
+        "HP_ADULT": "",
+        "C": "I99"
+    },
+    {
+        "Brand_Name": "DanActive ❄",
+        "Probiotic_Strain": "Lactobacillus casei DN-114 001",
+        "Dosage_Form": "10B/portions",
+        "Number_of_doses_day": "1-2 portions",
+        "ID": "II100-102",
+        "HP_CHILDREN": "II103",
+        "AAD_CHILDREN": "",
+        "CID": "I104",
+        "AAD_ADULT": "I105",
+        "IBS": "",
+        "HP_ADULT": "",
+        "C": ""
+    },
+    {
+        "Brand_Name": "Céréales pour nourrissons Gerber®",
+        "Probiotic_Strain": "Bifidobacterium lactis BB-12 DSM 10140",
+        "Dosage_Form": "1mds/ 28 g portions",
+        "Number_of_doses_day": "1 portions",
+        "ID": "",
+        "HP_CHILDREN": "",
+        "AAD_CHILDREN": "",
+        "CID": "I106",
+        "AAD_ADULT": "I107",
+        "IBS": "",
+        "HP_ADULT": "",
+        "C": ""
+    },
+    {
+        "Brand_Name": "Céréales pour tout-petits Gerber®",
+        "Probiotic_Strain": "Bifidobacterium lactis BB-12 DSM 10140",
+        "Dosage_Form": "1mds/ 28 g serving",
+        "Number_of_doses_day": "1 portions",
+        "ID": "",
+        "HP_CHILDREN": "",
+        "AAD_CHILDREN": "",
+        "CID": "I106",
+        "AAD_ADULT": "I107",
+        "IBS": "",
+        "HP_ADULT": "",
+        "C": ""
+    },
+
+
+    {
+        "Brand_Name": "Boisson pour tout-petits Gerber® Graduates",
+        "Probiotic_Strain": "Bifidobacterium lactis BB-12 DSM 10140",
+        "Dosage_Form": "130mns/200ml portions",
+        "Number_of_doses_day": "1 portions",
+        "ID": "1 serving",
+        "HP_CHILDREN": "",
+        "AAD_CHILDREN": "",
+        "CID": "I106",
+        "AAD_ADULT": "I107",
+        "IBS": "",
+        "HP_ADULT": "",
+        "C": ""
+    },
+
+    {
+        "Brand_Name": "Préparation probiotique pour nourrissons Bon Départ MD ",
+        "Probiotic_Strain": "130mns/ 100mL portions",
+        "Dosage_Form": "130M/ 100mL serving",
+        "Number_of_doses_day": "Pour l’alimentation régulière si l’utilisation d’un substitut au lait maternel est nécessaire. ",
+        "ID": "",
+        "HP_CHILDREN": "",
+        "AAD_CHILDREN": "",
+        "CID": "I108",
+        "AAD_ADULT": "",
+        "IBS": "",
+        "HP_ADULT": "",
+        "C": ""
+    },
+
+
+    {
+        "Brand_Name": "Yoptimal ❄ & iOGO Probio ❄",
+        "Probiotic_Strain": "Bifidobacterium lactis BB-12® & Lactobacillus acidophilus LA-5",
+        "Dosage_Form": "1mds/100g",
+        "Number_of_doses_day": "1-2 portions",
+        "ID": "",
+        "HP_CHILDREN": "",
+        "AAD_CHILDREN": "",
+        "CID": "",
+        "AAD_ADULT": "",
+        "IBS": "",
+        "HP_ADULT": "I109-112",
+        "C": ""
+    }
+]
